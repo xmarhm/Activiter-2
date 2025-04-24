@@ -14,4 +14,4 @@
 <img src="captures/13.png">
 <img src="captures/14.png">
 <img src="captures/15.png">
-<img src="captures/16.png">
+<img src="captures/image_2025-04-24_143954999.png">
