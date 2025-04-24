@@ -10,8 +10,4 @@
 <img src="captures/9.png">
 <img src="captures/10.png">
 <img src="captures/11.png">
-<img src="captures/12.png">
-<img src="captures/13.png">
-<img src="captures/14.png">
-<img src="captures/15.png">
 <img src="captures/image_2025-04-24_143954999.png">
